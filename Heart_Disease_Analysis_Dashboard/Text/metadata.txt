@@ -1,0 +1,16 @@
+The dataset contains 14 columns and 303 rows. Here's a brief description of each column:
+
+age: Age of the individual.
+sex: Gender (1 = male, 0 = female).
+cp: Chest pain type (1-4 categories).
+trestbps: Resting blood pressure (mm Hg).
+chol: Serum cholesterol (mg/dL).
+fbs: Fasting blood sugar (>120 mg/dL, 1 = true, 0 = false).
+restecg: Resting electrocardiographic results (0-2 categories).
+thalach: Maximum heart rate achieved.
+exang: Exercise-induced angina (1 = yes, 0 = no).
+oldpeak: ST depression induced by exercise relative to rest.
+slope: Slope of the peak exercise ST segment (1-3 categories).
+ca: Number of major vessels (0-3) colored by fluoroscopy.
+thal: Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect).
+num: Presence of heart disease (1 = presence, 0 = absence)
